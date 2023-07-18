@@ -9,8 +9,8 @@ export const Home: FC = () => {
       <Helmet>
         <title>Хатняя старонка</title>
       </Helmet>
-      <h1 data-testid="page-title">Home</h1>
-      <p>Это список.</p>
+      <h1 data-testid="page-title">Хата</h1>
+      <p>Гэта спiс.</p>
       <TodoList />
     </>
   );
